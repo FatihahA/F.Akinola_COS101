@@ -1,0 +1,3 @@
+fn main() {
+	printLn!("Welcome to csc 101!");
+}
