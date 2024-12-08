@@ -22,6 +22,6 @@ fn main() {
     println!("(a << b) => {}", result);
 
     result = a >> b;
-    println!("(a >> b) => {}", result);
+    sprintln!("(a >> b) => {}", result);
 
 }

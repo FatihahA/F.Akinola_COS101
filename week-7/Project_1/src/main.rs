@@ -14,7 +14,7 @@ fn main() {
 
     match choice {
         1 => area_of_trapezium(),
-        2 => area_of_rhombus(),
+        2 => area_of_rhombus(), 
         3 => area_of_parallelogram(),
         4 => area_of_cube(),
         5 => volume_of_cylinder(),
